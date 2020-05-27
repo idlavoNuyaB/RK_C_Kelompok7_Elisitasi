@@ -21,4 +21,4 @@ Folder Prioritisasi:
         [Sheet AHP](files/Prioritisasi/AHP%20-%20Sheet1.pdf "Sheet Perhitungan AHP")
         [Link AHP](files/Prioritisasi/Link%20AHP%20Spreadsheet.txt "Link Perhitungan AHP")
     3. SKPL
-        [SKPL](files/Prioritisasi/SKPL.docx "SKPL")
+        [SKPL](files/Prioritisasi/SKPL.docx)
