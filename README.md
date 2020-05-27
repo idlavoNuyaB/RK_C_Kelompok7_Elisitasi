@@ -14,18 +14,14 @@ Anggota Kelompok:
 
 ## Folder Prioritisasi:
 
-### Hasil Kuisioner Cost and Value
+### - Hasil Kuisioner Cost and Value
     
-[Cost](Prioritisasi/Cost%20Prioritisasi%20Sistem%20Kursus%20Online%20(Respons).xlsx "Hasil Cost")
+[Cost](Prioritisasi/Cost%20Prioritisasi%20Sistem%20Kursus%20Online%20(Respons).xlsx "Hasil Cost") [Value](Prioritisasi/Value%20Prioritisasi%20Sistem%20Kursus%20Online%20(Respons).xlsx "Hasil Value")
 
-[Value](Prioritisasi/Value%20Prioritisasi%20Sistem%20Kursus%20Online%20(Respons).xlsx "Hasil Value")
-
-### Perhitungan AHP
+### - Perhitungan AHP
     
-[Sheet AHP](Prioritisasi/AHP%20-%20Sheet1.pdf "Sheet Perhitungan AHP")
+[Sheet AHP](Prioritisasi/AHP%20-%20Sheet1.pdf "Sheet Perhitungan AHP") [Link AHP](Prioritisasi/Link%20AHP%20Spreadsheet.txt "Link Perhitungan AHP")
 
-[Link AHP](Prioritisasi/Link%20AHP%20Spreadsheet.txt "Link Perhitungan AHP")
-
-### SKPL
+### - SKPL
     
 [SKPL](Prioritisasi/SKPL.docx)
