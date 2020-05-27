@@ -16,13 +16,13 @@ Folder Prioritisasi:
 
     1. Hasil Kuisioner Cost and Value
     
-[Cost](files/Prioritisasi/Cost%20Prioritisasi%20Sistem%20Kursus%20Online%20(Respons).xlsx "Hasil Cost")
+        [Cost](files/Prioritisasi/Cost%20Prioritisasi%20Sistem%20Kursus%20Online%20(Respons).xlsx "Hasil Cost")
 
-[Value](files/Prioritisasi/Value%20Prioritisasi%20Sistem%20Kursus%20Online%20(Respons).xlsx "Hasil Value")
+        [Value](files/Prioritisasi/Value%20Prioritisasi%20Sistem%20Kursus%20Online%20(Respons).xlsx "Hasil Value")
 
     2. Perhitungan AHP
     
-[Sheet AHP](files/Prioritisasi/AHP%20-%20Sheet1.pdf "Sheet Perhitungan AHP")
+        [Sheet AHP](files/Prioritisasi/AHP%20-%20Sheet1.pdf "Sheet Perhitungan AHP")
 
 [Link AHP](files/Prioritisasi/Link%20AHP%20Spreadsheet.txt "Link Perhitungan AHP")
 
